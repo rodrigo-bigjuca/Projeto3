@@ -1,0 +1,2 @@
+escrevendo a linha 1
+linha 2 ok
